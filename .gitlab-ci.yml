@@ -1,0 +1,5 @@
+test:hello
+  image: golang:latest
+  script:
+  - pwd 
+  - go test
