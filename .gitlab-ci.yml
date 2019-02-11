@@ -1,4 +1,4 @@
-test:hello
+test:hello:
   image: golang:latest
   script:
   - pwd 
