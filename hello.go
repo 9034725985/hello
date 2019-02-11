@@ -5,8 +5,8 @@ import "fmt"
 const englishHelloPrefix = "Hello, "
 const spanishHelloPrefix = "Hola, "
 const frenchHelloPrefix = "Bonjour, "
-const spanish = "Spanish"
-const french = "French"
+const spanish = "ES"
+const french = "FR"
 
 // Hello returns a string
 func Hello(name string, language string) string {
